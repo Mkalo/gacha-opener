@@ -8,7 +8,7 @@ This module changes the delay for each gacha try. The minimum delay is 0 but the
 
 ## Commands
 
-| Command                    | Description                             |
-| -------------------------- |---------------------------------------- |
-| !gacha                     | Toggles oppening gachas on and off      |
-| !gacha delay [time]        | Sets delay to **time** ms, default is 0 |
+| Command                    | Description                               |
+| -------------------------- |------------------------------------------ |
+| !gacha                     | Toggles oppening gachas on and off        |
+| !gacha delay [time]        | Sets delay to **time** ms, default is 100 |
