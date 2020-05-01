@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Gacha-Opener",
+    "author": "Matt",
+    "description": "Open gacha boxes faster.",
+    "version": "1.0",
+    "options": {
+        "reloadable": true
+    },
+    "supportUrl": "https://github.com/Mkalo/gacha-opener/issues",
+    "servers": ["https://raw.githubusercontent.com/Mkalo/gacha-opener/master/"]
+}

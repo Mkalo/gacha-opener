@@ -1,0 +1,14 @@
+{
+  "files": {
+    "index.js": "4cfd6439903e44c58795fbb3ec692da3f809dd52ab52e171fe71339cb3657b2e",
+    "README.md": "a8eb4a5d8a3ed662d065346e36a32eab6ebb082e40c433c0f26e0672974ccada"
+  },
+  "defs": {
+    "C_GACHA_CANCEL": 1,
+    "S_REQUEST_CONTRACT": 1,
+    "S_GACHA_START": "event",
+    "C_GACHA_TRY": 1,
+    "S_GACHA_END": "event",
+    "S_CANCEL_CONTRACT": 1
+  }
+}
